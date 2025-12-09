@@ -1,0 +1,12 @@
+{
+  "watch": ["server.js", "src/"],
+  "ignore": [
+    "node_modules/",
+    ".next/",
+    "public/",
+    "*.log",
+    "db.json"
+  ],
+  "ext": "js,jsx",
+  "delay": 2000
+}
